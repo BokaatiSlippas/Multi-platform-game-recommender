@@ -1,0 +1,12 @@
+body
+{
+	padding: 30px;
+}
+
+div
+{
+	background-color: lightblue;
+	padding: 20px;
+	margin: 10px;
+	text-align: center;
+}
